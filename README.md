@@ -25,10 +25,8 @@
 
       ~ Building awesome stuffs with a team.
       
-- 📫 You can get me:
-
-
-      Here on Github 
+- 📫 You can get me: 
+      Here on Github,
       My Email: miracleigbinoghene@gmail.com, 
       My Twitter: https://twitter.com/Miracle_omosede,
       My Medium: https://medium.com/@miracleigbinoghene
