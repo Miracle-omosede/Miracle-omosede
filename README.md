@@ -27,7 +27,7 @@
       
 - 📫 You can get me: 
       Here on Github,
-      My Email: miracleigbinoghene@gmail.com, 
-      My Twitter: https://twitter.com/Miracle_omosede,
-      My Medium: https://medium.com/@miracleigbinoghene
+      Email: miracleigbinoghene@gmail.com, 
+      Twitter: https://twitter.com/Miracle_omosede,
+      Medium: https://medium.com/@miracleigbinoghene
 <!--- See Ya :) --->
