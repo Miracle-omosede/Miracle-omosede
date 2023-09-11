@@ -2,29 +2,14 @@
 
 [![Linkedin Badge](https://img.shields.io/badge/-Miracle-black?style=for-the-badge&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/miracle-igbinoghene-0860a6219/)](https://www.linkedin.com/in/miracle-igbinoghene-0860a6219/) [![Twitter Badge](https://img.shields.io/badge/-@Miracle-1ca0f1?style=for-the-badge&logo=twitter&logoColor=white&link=https://mobile.twitter.com/IgbinogheneM)](https://mobile.twitter.com/IgbinogheneM) [![My Badge](https://img.shields.io/badge/-Miracle.Igbinoghene-green?style=for-the-badge&logo=Google-Chrome&logoColor=white&link=https://cutt.ly/MSsZ4sE)](https://cutt.ly/MSsZ4sE)
 
-My name is Miracle and I am a software engineer with experience in frontend Developement. I have gained diverse experiences and skills through self-development, rigorous mentorship, and years of growth (and I'm still open to learning more!). I am enthusiastic about building various solutions, and I am excited about technology, security, AI, web3, UI/UX design, Backend engineering, anime and art.
+My name is Miracle and I am a software engineer with experience in frontend development. I have gained diverse experiences and skills through self-development, rigorous mentorship, and years of growth (and I'm still open to learning more!). I am enthusiastic about building various solutions, and I am excited about technology, security, AI, web3, UI/UX design, Backend engineering, anime, and art.
 
 **Here's a quick summary about me**:
+- 🌱 I am a Frontend Developer who specializes in creating visually appealing interfaces using HTML, CSS, and JavaScript. I also utilize various additional tools such as Tailwindcss, React.js, MaterialUI, GSAP, Bootstrapcss, SCSS/SASS, JQuery, and Vue.js to create top-notch interfaces. For designing and prototyping, I utilize Adobe Photoshop and have basic proficiency in Figma. Overall, I enjoy utilizing these tools and creating exceptional interfaces.
 
-- 💡 Fun fact: I am a lefty.
-- 🌱 I’m currently a Frontend Developer, I create appealing interfaces utilizing HTML, CSS, and JavaScript, along with additional tools such as:
-
-
-      ~ Tailwindcss
-      ~ React.js
-      ~ MaterialUI
-      ~ GSAP
-      ~ Bootstrapcss
-      ~ SCSS/SASS
-      ~ JQuery
-      ~ Vue.js
+- 💡 Interests: I am very much interested in Web3 technology, Building smart contracts, and Exploring the world of Web3 Tools such as Solidity, Ether.js, and Web3.js for building solutions, I also build projects in Web2 utilizing Next.JS, ReactJS, VueJS and NuxtJS.
       
-      
-      and for Design and Prototyping
-      ~ Adobe Photoshop
-      ~ Figma (Basic)
-      
-- 😊 I’m looking forward to contributing in open source projects and hackathons, acquiring internships opportunities, Growing and contributing the Dev Community, gaining mastery in React.js and Vue.js, Strenghten my Writing Skills and accessing all tech opportunities. am also an enthusaist of Web 3
+- 😊 I’m looking forward to contributing to open source projects and hackathons, acquiring internship opportunities, Growing and contributing to the Dev Community, gaining mastery in React.js and Vue.js, strengthening my Writing Skills, and accessing all tech opportunities.
 - 💼 Job interest: Frontend Engineer, JavaScript Engineer, React Developer.
 - 📫 You can contact me by sending a [Mail](mailto:miracleigbinoghene@gmail.com)
 
