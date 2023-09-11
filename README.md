@@ -9,27 +9,16 @@ Quick Summary
 
 - 💡 **Web3 Enthusiast**: I am deeply interested in Web3 technology and building smart contracts. I explore Web3 tools such as Solidity, Ether.js, and Web3.js to develop innovative solutions. In the Web2 world, I use frameworks like Next.js, ReactJS, VueJS, and NuxtJS to create projects too.
 
+- 🛠️ **Skills**: ReactJS, VueJS, NextJS, NuxtJS, HTML/CSS, Basic UI/UX Design Knowledge using Figma and Adobe Photoshop, Web3 Technology, Solidity, Ether.js, Web3.js, GSAP, and Framer Motion are some of the technologies I specialize in.
+
 - 😊 **Goals**: I am eager to contribute to open-source projects and hackathons, seek internship opportunities, grow within the developer community, gain mastery in my current technologies, enhance my writing skills, and explore various tech opportunities.
 
 - 💼 **Job Interests**: I'm actively seeking roles as a Frontend Engineer or Smart Contract Developer.
 
-- 🛠️ **Skills**
-- JavaScript
-- ReactJS
-- VueJS
-- NextJS
-- NuxtJS
-- HTML/CSS
-- UI/UX Design
-- Web3 Technology
-- Solidity
-- Ether.js
-- Web3.js
-- GSAP
-- Framer Motion
-
 ## Contact Me
-Feel free to reach out to me via email at [miracleigbinoghene@gmail.com](mailto:miracleigbinoghene@gmail.com).
+Feel free to reach out to me via email at [📧 miracleigbinoghene@gmail.com](mailto:miracleigbinoghene@gmail.com).
+
+Thanks for visiting my GitHub profile. Let's connect and collaborate on exciting projects!
 
 | <img align="center" src="https://github-readme-stats.vercel.app/api?username=miracle-omosede&show_icons=true&include_all_commits=true&hide_border=true" alt="Miracle's GitHub stats" /> | <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=miracle-omosede&langs_count=8&layout=compact&hide_border=true" alt="Miracle's GitHub stats" /> |
 
